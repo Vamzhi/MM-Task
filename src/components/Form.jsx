@@ -14,6 +14,8 @@ const Form = () => {
         <select className="w-full p-2 border rounded">
           <option>Advertising Inquiry</option>
           <option>Customer Support</option>
+          <option>Melody Mocktail Support</option>
+          <option>Deals Mocktail Support</option>
         </select>
       </div>
       <div className="mb-4">
